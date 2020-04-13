@@ -19,6 +19,7 @@ Switching on camera from habitat with camels...
            /_I      L_I   L_I     /_I
 Yey, our little camel is sunbathing!"""
 
+
 lion = """
 Switching on camera from habitat with lions...
                                                ,w.
@@ -36,7 +37,8 @@ WMMm__,-'.'     /      _.\      F'''-+,,   ;_,_.dMMMMMMMM[,_ / `=_}
          /  Y,              `,  `-,=,_{   ;      MMMP`""-,  `-._.-,
         (--, )                `,_ / `) \/"")      ^"      `-, -;"\:
 The lion is croaking!"""
-
+ 
+ 
 deer = """
 Switching on camera from habitat with deers...
    /|       |\\
@@ -64,6 +66,7 @@ Switching on camera from habitat with deers...
            |_||_|           |_|   |_|
           /_//_/           /_/   /_/
 Our 'Bambi' looks hungry. Let's go to feed it!"""
+
 
 goose = """
 Switching on camera from habitat with lovely goose...
@@ -95,6 +98,7 @@ _________________               _________________
                 ~-. /  \_/  \ .-~
                    V         V
 It looks like this bat is fine."""
+
 
 rabbit = """
 Switching on camera from habitat with rabbits...
